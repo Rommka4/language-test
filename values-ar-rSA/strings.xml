@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Watomatic</string>
+    <string name="url_privacy_policy">https://adeekshith.github.io/watomatic/#/privacy-policy.md</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="privacy_policy_label">Privacy Policy</string>
+    <string name="service_name">Incoming Message Notification Listener</string>
+    <string name="mainAutoReplyTextPlaceholder">(Custom Reply)</string>
+    <string name="auto_reply_default_message">Auto Reply\n⚠️ User not available</string>
+    <string name="mainAutoReplyLabel">Auto reply text</string>
+    <string name="mainAutoReplySwitchOffLabel">Auto reply OFF</string>
+    <string name="mainAutoReplySwitchOnLabel">Auto reply ON</string>
+    <string name="mainAutoReplyEditBtnTooltip">Click to edit auto reply text</string>
+    <string name="to_help_you_leave_whatsapp">Auto reply to help you leave WhatsApp and Facebook messenger</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+    <string name="sure">I\'m Sure</string>
+    <string name="retry">Retry</string>
+    <string name="permission_dialog_title">Permission Required</string>
+    <string name="permission_dialog_msg">This app requires Notification Access permissions to work.</string>
+    <string name="permission_dialog_denied_title">Permission Denied</string>
+    <string name="permission_dialog_denied_msg">Without this permission app is unable to auto-reply to the notifications. Are you sure you want to deny the permission?</string>
+    <!-- Select apps to auto reply -->
+    <string name="enable_for_apps">Enable for apps</string>
+    <string name="enable_auto_reply_switch_msg">Enable Auto Reply Switch First.</string>
+    <string name="error_atleast_single_app_must_be_selected">Error: Select at-least a single app</string>
+    <!-- Group chats -->
+    <string name="groupReplySwitchLabel">Auto reply for Group chats</string>
+    <string name="group_reply_on_info_message">Enabled auto reply for group chats</string>
+    <string name="group_reply_off_info_message">Disabled auto reply for group chats</string>
+    <string name="time_picker_title">Reply frequency (BETA)</string>
+    <string name="time_picker_sub_title_default">Respond to all messages without control</string>
+    <string name="time_picker_sub_title">Respond only once every %1$d day\/s for each person\/group</string>
+    <string name="time_format_placeholder">00:00</string>
+    <string name="time_picker_edit_btn_tooltip">Click to edit time delay between replies</string>
+    <string name="app_version">v%1$s</string>
+    <!-- Custom message editor -->
+    <string name="save">Save</string>
+    <string name="tip_view_messages_from_fellow_users">🦩 <u>View templates from community and share yours too ➚</u></string>
+    <string name="append_watomatic_arribution_checkbox_label">Append Watomatic arribution to help spread the word</string>
+    <string name="sent_using_Watomatic">Sent using git.io/watomatic</string>
+    <string name="share_app_text">\"I am using Watomatic to break away from WhatsApp. Try it out!\n https://git.io/watomatic</string>
+    <string name="share">Share</string>
+    <string name="share_subject">Watomatic: Auto Reply for WhatsApp</string>
+    <string name="watomatic_subreddit_label"><u>Let\'s discuss\nr/watomatic</u></string>
+    <string name="watomatic_whatsnew_label">What\'s New?</string>
+    <!-- Share debug logs -->
+    <!-- keys and app internal strings -->
+    <!-- app settings -->
+    <string name="show_notification_label">Show notification for replied messages</string>
+    <!-- Local language names (non translatable) -->
+    <!-- Basque -->
+    <!-- Language codes (non translatable) -->
+    <!-- App Language selection -->
+    <string name="app_language">App Language</string>
+    <!-- App Rating Dialog -->
+    <string name="app_rating_dialog_title">What do you think?</string>
+    <string name="app_rating_dialog_msg">We are interested in what you think of the app. Tap the stars above to rate it.</string>
+    <string name="app_rating_dialog_rate_button_title">Rate it!</string>
+    <string name="app_rating_dialog_rate_later_title">May be later</string>
+    <string name="app_rating_goto_store_dialog_title">We\'re happy!</string>
+    <string name="app_rating_goto_store_dialog_msg">Please share this rating of our app on the Google Play Store by tapping \"Continue\"\!</string>
+    <string name="app_rating_pitch">This app is free, no ads, no tracking, open source and is made by contributors like you and me.
+        Your feedback is our only encouragement.</string>
+    <string name="app_rating_goto_store_dialog_button1_title">Not Interested</string>
+    <string name="app_rating_goto_store_dialog_button2_title">Continue</string>
+    <string name="app_rating_feedback_dialog_title">Contact us</string>
+    <string name="app_rating_feedback_dialog_msg">Let us know how we can improve.</string>
+    <string name="app_rating_feedback_dialog_mail_button_title">Email Us</string>
+    <string name="app_rating_feedback_dialog_telegram_button_title">Telegram</string>
+</resources>
