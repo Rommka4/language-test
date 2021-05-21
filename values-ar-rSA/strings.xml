@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Watomatic</string>
-    <string name="url_privacy_policy">https://adeekshith.github.io/watomatic/#/privacy-policy.md</string>
     <string name="about">عن التطبيق</string>
     <string name="settings">الإعدادات</string>
     <string name="privacy_policy_label">سياسة الخصوصية</string>
@@ -32,9 +30,7 @@
     <string name="time_picker_title">تكرار الرد (تجريبي)</string>
     <string name="time_picker_sub_title_default">الرد على جميع الرسائل بدون التحكم</string>
     <string name="time_picker_sub_title">الرد مرة واحدة فقط كل %1$d يوم لكل شخص\/مجموعة</string>
-    <string name="time_format_placeholder">00:00</string>
     <string name="time_picker_edit_btn_tooltip">انقر لتحرير تأخير الوقت بين الردود</string>
-    <string name="app_version">v%1$s</string>
     <!-- Custom message editor -->
     <string name="save">حفظ</string>
     <string name="tip_view_messages_from_fellow_users">🦩 <u>➚ عرض القوالب من المجتمع ومشاركة قالبك أيضا </u></string>
